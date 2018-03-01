@@ -21,3 +21,7 @@ JavaScript into a version of JavaScript safe for the browser (or most browsers)
 - some
 - reduce
 - mastering these array helper methods will really help you develop your abilities as a developer
+
+## Const - Let
+- we don't use `var` anymore - ever; we only use `const` and `let`
+- 
