@@ -25,3 +25,5 @@ JavaScript into a version of JavaScript safe for the browser (or most browsers)
 ## Const - Let
 - we don't use `var` anymore - ever; we only use `const` and `let`
 - 
+
+## Generators
