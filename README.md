@@ -27,3 +27,15 @@ JavaScript into a version of JavaScript safe for the browser (or most browsers)
 - 
 
 ## Generators
+- symbol iterator is a tool that teaches objects how to respond to the for - of loop.
+
+## Promises
+- three states of promises
+  - unresolved => waiting for something to finish
+  - resolved => something finished and it all went okay
+    - then (callback)
+  - rejected => something finished and something went bad
+    - catch (callback)
+- the vast majority of promises are related to Ajax requests
+
+
