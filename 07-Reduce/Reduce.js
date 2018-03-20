@@ -1,9 +1,10 @@
-var numbers = [10,20,30]
-
-var total = numbers.reduce((acc, num) => acc + num)
+var numbers = [10,20,30];
+// ES6
+var total = numbers.reduce((acc, num) => acc + num);
+// ES5
 var total2 = numbers.reduce(function(acc, sum) {
   return sum + acc;
-},0)
+},0);
 total
 total2
 
